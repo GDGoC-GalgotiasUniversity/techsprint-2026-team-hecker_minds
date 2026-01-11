@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Y9iW-vs6)
-# 🚀 [Project Name]
-### Team: [Your Team Name]
-> *A one-sentence tagline or slogan for your project goes here.*
+# 🚀 [CHATBOT USING GEMINI API]
+### Team: [HECKER MIND]
+> *SOMETIMES WE NEED TO LEAVE BECAUSE SELF RESPECT TRUMPHS EGO.*
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Name | Role | Email |
 | :--- | :--- | :--- |
-| **[Name]** | Team Lead | [Email] |
-| **[Name]** | Member | [Email] |
-| **[Name]** | Member | [Email] |
+| **[ADITYA]** | Team Lead | [aditya965496@gmail.com] |
+| **[AKSHAT SHUKLA]** | Member |
+| **[PRIYANSHU KUMAR]** | Member | 
 
 ---
 
@@ -47,7 +47,7 @@
 ---
 
 ## 🔗 Links & Demo
-- **🌐 Live Site:** [https://your-app.vercel.app](https://your-app.vercel.app)
+- **🌐 Live Site:** 
 - **📂 GitHub Repo:** [Link to Repo]
 - **📹 Video Demo:** [Link to Video]
 
