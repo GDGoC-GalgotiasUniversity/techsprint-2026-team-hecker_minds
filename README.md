@@ -17,43 +17,47 @@
 
 ## 🎯 Problem Statement
 *Describe the specific pain point or challenge here (Keep it under 3 lines).*
-* **Context:** [Why is this a problem?]
-* **Impact:** [Who suffers from this?]
+* **Context:** [Context: Students and professionals often struggle to quickly find accurate answers from long PDFs/notes and have to manually search through pages, which wastes time and reduces productivity.]
+* **Impact:** [This affects students during exams, learners, researchers, and working professionals who need instant doubt-solving and document-based assistance]
 
 ## 💡 Solution
-*Describe your approach and how it solves the problem.*
-1.  **Key Point 1:** [Description]
-2.  **Key Point 2:** [Description]
-3.  **Key Point 3:** [Description]
+*We built a Gemini-powered Voice + PDF Assistant that allows users to upload PDFs/notes and ask questions using text or voice. The assistant generates accurate answers from the PDF context and responds in both text and speech, making learning and information retrieval fast, interactive, and accessible..*
+1.  **Key Point 1:** [PDF-Based Q&A: Upload PDFs and get context-based answers (no random hallucinations).]
+2.  **Key Point 2:** [Voice Input: Ask doubts using speech (Speech-to-Text).
+]
+3.  **Key Point 3:** [Voice Output: AI replies with natural voice (Text-to-Speech).]
 
 ---
 
 ## 🛠 Tech Stack
 
 | Category | Technologies Used |
-| :--- | :--- |
-| **Frontend** | React, Tailwind, Vite |
-| **Backend** | Node.js, Express, Python |
-| **Database** | MongoDB, PostgreSQL |
-| **Tools/APIs** | Docker, OpenAI API, AWS |
-
+| --- | --- |
+| **Frontend** | React.js, CSS, Web Speech API (Speech-to-Text & Text-to-Speech) |
+| **Backend** | Python, Flask, Flask-CORS |
+| **AI Model/API** | Google Gemini API (gemini-pro) |
+| **PDF Processing** | PyPDF2 |
+| **Deployment** | Vercel (Frontend), Render (Backend) |
+| **Version Control** | Git & GitHub |
 ---
 
-## 📊 MVP Features
-- [x] **Feature 1:** [Brief description]
-- [x] **Feature 2:** [Brief description]
-- [ ] **Feature 3:** [Brief description - In Progress]
+## ✅ MVP Features
 
+- [x] **Voice Input (Speech-to-Text):** User can speak questions directly.
+- [x] **Voice Output (Text-to-Speech):** AI replies in both text and voice.
+- [x] **PDF Upload & Context QnA:** Upload notes/PDF and ask questions from it.
+- [x] **Real-time Chat Interface:** Smooth, interactive chat UI.
+- [ ] **User Login & Saved History:** (Future Enhancement)
 ---
 
 ## 🔗 Links & Demo
-- **🌐 Live Site:** 
-- **📂 GitHub Repo:** [Link to Repo]
-- **📹 Video Demo:** [Link to Video]
+- **🌐 Live Site:** [https://ai.studio/apps/drive/1GVCMj8Ett2LwYIpz3u9x9er7pZ1YHGC1]
+- **📂 GitHub Repo:** [https://github.com/aditya965496-stack/HECKERS-MIND , https://github.com/GDGoC-GalgotiasUniversity/techsprint-2026-team-hecker_minds]
+  
 
 > **Testing Credentials**
-> * **User:** `user@demo.com`
-> * **Pass:** `hack2026`
+> * **User:** `your gmail adress`
+> * **Pass:** `just sign in`
 
 ---
 
